@@ -25,7 +25,6 @@
 **จะพิจารณาเป็นพิเศษ:** 
 * มีประสบการณ์กับ Web Application .Net และใช้ MS SQL ได้เป็นอย่างดี
 * มีผลงานนำมา Present หรือบน GitHub
-* [ถ้ามี Frontend Technology] มีความรู้และประสบการณ์ในการพัฒนา Frontend ด้วย [ระบุ Frontend Framework/Library ที่ใช้]
 
 ## สิ่งที่เรามอบให้:
 
